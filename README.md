@@ -1,4 +1,4 @@
-This repo is a backup of UMich EECS482 projects. Students from UMich should obey the Honor Code when accessing this repo. 
+This repo is a backup of UMich EECS482 (Introduction to Operating System) projects. Students from UMich should obey the Honor Code when accessing this repo. 
 
 Project1 uses mutex and cv to write a multi-thread disk scheduler.
 
